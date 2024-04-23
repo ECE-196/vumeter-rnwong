@@ -1,14 +1,7 @@
-# CHANGELOG
-
-## {DATE}
-### Contributors
+4/22/2024 
+Rebecca Wong 
 ...
+Uploaded video of working VU meter and added code to main.py. 
 
-### Added
-...
-
-### Changed
-...
-
-### Removed
+Worked together with David Salzmann under instruction of TAs due to faulty Dev board. 
 ...
